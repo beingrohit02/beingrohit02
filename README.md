@@ -8,25 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=beingrohit02&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="beingrohit02 profile views" />
 </p>
 
-<br />
+---
 
-<!-- 2-Column Section: About Me + Coding GIF -->
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 ABOUT ME</h2>
-      <ul>
-        <li>🎓 <b>Education:</b> 1st-Year B.Tech CSE (AI & Data Science) @ <b>NIAT x Noida International University</b></li>
-        <li>💡 <b>Interests:</b> Artificial Intelligence, Machine Learning & Computer Vision</li>
-        <li>🛠️ <b>Current Project:</b> <b>CityPulse AI</b> — Smart City Command Center</li>
-        <li>🔗 <b>Connect:</b> <a href="https://www.linkedin.com/in/beingrohit">LinkedIn Profile</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/55458022/111874744-8d963380-89bc-11eb-91ab-17688225576a.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+## 🚀 ABOUT ME
+- 🎓 **Education:** 1st-Year B.Tech CSE (AI & Data Science) @ **NIAT x Noida International University**
+- 💡 **Interests:** Artificial Intelligence, Machine Learning & Computer Vision
+- 🛠️ **Current Project:** **CityPulse AI** — Smart City Command Center
+- 🔗 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/beingrohit)
 
 ---
 
