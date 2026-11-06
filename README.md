@@ -4,7 +4,7 @@
 - 🎓 **Education:** 1st-Year B.Tech CSE (AI & Data Science) @ NIAT x Noida International University
 - 💡 **Interests:** Artificial Intelligence, Machine Learning & Computer Vision
 - 🛠️ **Current Project:** CityPulse AI — Smart City Command Center
-- 🔗 **Connect:** [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+- 🔗 **Connect:** [LinkedIn](www.linkedin.com/in/beingrohit)
 
 ---
 
