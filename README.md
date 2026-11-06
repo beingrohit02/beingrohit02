@@ -10,7 +10,7 @@
 
 <br />
 
-<!-- 2-Column Section: About Me + Animated Coding GIF -->
+<!-- 2-Column Section: About Me + Fixed Coding GIF -->
 <table border="0">
   <tr>
     <td width="60%" valign="top">
@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmNTbk/giphy.gif" width="100%" alt="Coding Animation" />
+      <img src="https://user-images.githubusercontent.com/55458022/111874744-8d963380-89bc-11eb-91ab-17688225576a.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -51,4 +51,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beingrohit02&show_icons=true&theme=tokyonight" width="48%" alt="Rohit's GitHub Stats" />
-  <img src="
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit02&theme=tokyonight" width="48%" alt="Rohit's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingrohit02&theme=react-dark" width="98%" alt="Rohit's GitHub Activity" />
+</p>
