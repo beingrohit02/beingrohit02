@@ -1,26 +1,54 @@
-# HI, I'M ROHIT 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=HI%2C+I'M+ROHIT+%F0%9F%90%8B;B.TECH+CSE+(AI+%26+DS)+%F0%9F%A4%96;BUILDING+CITYPULSE+AI+%F0%9F%8F%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</h1>
 
-## 🚀 ABOUT ME
-- 🎓 **Education:** 1st-Year B.Tech CSE (AI & Data Science) @ NIAT x Noida International University
-- 💡 **Interests:** Artificial Intelligence, Machine Learning & Computer Vision
-- 🛠️ **Current Project:** CityPulse AI — Smart City Command Center
-- 🔗 **Connect:** [LinkedIn](www.linkedin.com/in/beingrohit)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=beingrohit02&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="beingrohit02 profile views" />
+</p>
+
+<br />
+
+<!-- 2-Column Section: About Me + Animated Coding GIF -->
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 ABOUT ME</h2>
+      <ul>
+        <li>🎓 <b>Education:</b> 1st-Year B.Tech CSE (AI & Data Science) @ <b>NIAT x Noida International University</b></li>
+        <li>💡 <b>Interests:</b> Artificial Intelligence, Machine Learning & Computer Vision</li>
+        <li>🛠️ <b>Current Project:</b> <b>CityPulse AI</b> — Smart City Command Center</li>
+        <li>🔗 <b>Connect:</b> <a href="https://www.linkedin.com/in/beingrohit">LinkedIn Profile</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmNTbk/giphy.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 FEATURED PROJECT
 
-### CityPulse AI
-An AI-powered smart city command center that unifies urban management using computer vision and LLMs.
+### 🏙️ CityPulse AI
+> An AI-powered smart city command center that unifies urban management using computer vision and LLMs.
+
+---
+
+## 🧰 TECH STACK & TOOLS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,fastapi,postgres,pytorch,opencv,git,github" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GITHUB STATS
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingrohit02&show_icons=true&theme=radial" width="55%" alt="Rohit's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit02&theme=dark" width="55%" alt="Rohit's GitHub Streak" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beingrohit02&show_icons=true&theme=tokyonight" width="48%" alt="Rohit's GitHub Stats" />
+  <img src="
