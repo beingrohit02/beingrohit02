@@ -10,7 +10,7 @@
 
 <br />
 
-<!-- 2-Column Section: About Me + Fixed Coding GIF -->
+<!-- 2-Column Section: About Me + Coding GIF -->
 <table border="0">
   <tr>
     <td width="60%" valign="top">
@@ -37,16 +37,6 @@
 
 ---
 
-## 🧰 TECH STACK & TOOLS
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,fastapi,postgres,pytorch,opencv,git,github" />
-  </a>
-</p>
-
----
-
 ## 📊 GITHUB STATS
 
 <p align="center">
@@ -55,4 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingrohit02&theme=react-dark" width="98%" alt="Rohit's GitHub Activity"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingrohit02&theme=react-dark" width="98%" alt="Rohit's GitHub Activity" />
+</p>
