@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beingrohit02&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="beingrohit02 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=beingrohit02&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 <br />
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
     </td>
   </tr>
 </table>
@@ -39,10 +39,5 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingrohit02&show_icons=true&theme=tokyonight" width="48%" alt="Rohit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit02&theme=tokyonight" width="48%" alt="Rohit's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingrohit02&theme=react-dark" width="98%" alt="Rohit's GitHub Activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit02&theme=tokyonight" width="65%" />
 </p>
