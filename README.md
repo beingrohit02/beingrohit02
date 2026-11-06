@@ -8,13 +8,24 @@
   <img src="https://komarev.com/ghpvc/?username=beingrohit02&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="beingrohit02 profile views" />
 </p>
 
----
+<br />
 
-## 🚀 ABOUT ME
-- 🎓 **Education:** 1st-Year B.Tech CSE (AI & Data Science) @ **NIAT x Noida International University**
-- 💡 **Interests:** Artificial Intelligence, Machine Learning & Computer Vision
-- 🛠️ **Current Project:** **CityPulse AI** — Smart City Command Center
-- 🔗 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/beingrohit)
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 ABOUT ME</h2>
+      <ul>
+        <li>🎓 <b>Education:</b> 1st-Year B.Tech CSE (AI & Data Science) @ <b>NIAT x Noida International University</b></li>
+        <li>💡 <b>Interests:</b> Artificial Intelligence, Machine Learning & Computer Vision</li>
+        <li>🛠️ <b>Current Project:</b> <b>CityPulse AI</b> — Smart City Command Center</li>
+        <li>🔗 <b>Connect:</b> <a href="https://www.linkedin.com/in/beingrohit">LinkedIn Profile</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
