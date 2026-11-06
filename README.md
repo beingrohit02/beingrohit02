@@ -1,16 +1,22 @@
-## Hi there 👋
+# HI, I'M ROHIT 👋
 
-<!--
-**beingrohit02/beingrohit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 ABOUT ME
+- 🎓 **Education:** 1st-Year B.Tech CSE (AI & Data Science) @ NIAT x Noida International University
+- 💡 **Interests:** Artificial Intelligence, Machine Learning & Computer Vision
+- 🛠️ **Current Project:** CityPulse AI — Smart City Command Center
+- 🔗 **Connect:** [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 FEATURED PROJECT
+
+### CityPulse AI
+An AI-powered smart city command center that unifies urban management using computer vision and LLMs.
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radial" width="55%" />
+</p>
