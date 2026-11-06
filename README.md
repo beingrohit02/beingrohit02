@@ -18,5 +18,9 @@ An AI-powered smart city command center that unifies urban management using comp
 ## 📊 GITHUB STATS
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radial" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingrohit02&show_icons=true&theme=radial" width="55%" alt="Rohit's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit02&theme=dark" width="55%" alt="Rohit's GitHub Streak" />
 </p>
